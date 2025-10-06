@@ -1,0 +1,26 @@
+{
+  "name": "Gamezy - Наследник Omlet Arcade",
+  "short_name": "Gamezy",
+  "description": "Общайся с друзьями-геймерами и делись игровыми достижениями",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e2d2900fb4b4369c832503/284bdb5c4_image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68e2d2900fb4b4369c832503/284bdb5c4_image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "social"],
+  "lang": "ru",
+  "scope": "/",
+  "screenshots": []
+}
